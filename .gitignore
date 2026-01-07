@@ -1,0 +1,27 @@
+# =========================
+# Large Data Files
+# =========================
+data/raw/*.csv
+data/raw/*.xlsx
+data/clean/*.csv
+excel/*.xlsx
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+*.log
