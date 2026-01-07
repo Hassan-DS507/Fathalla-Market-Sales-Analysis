@@ -1,4 +1,4 @@
-# Fathalla Market Sales Analytics: Comprehensive Business Intelligence Implementation
+# Fathalla Market Sales Analytics
 
 ## 📊 Executive Summary
 
@@ -161,7 +161,7 @@ DIVIDE([Product Sales], CALCULATE([Total Sales], ALL(Dim_Product)))
 #### 3.1 Executive Overview Dashboard
 **Purpose:** High-level business performance monitoring
 
-![Executive Dashboard](Screenshot%202025-11-25%20221616.png)
+![Executive Dashboard](powerbi/images/Screenshot%202025-11-25%20221616.png)
 
 **Components:**
 - **KPI Dashboard:** Real-time business metrics
@@ -172,8 +172,8 @@ DIVIDE([Product Sales], CALCULATE([Total Sales], ALL(Dim_Product)))
 #### 3.2 Branch Performance Analytics
 **Purpose:** Granular location-specific insights
 
-![Branch Analysis 1](Screenshot%202025-11-25%20221402.png)
-![Branch Analysis 2](Screenshot%202025-11-25%20221543.png)
+![Branch Analysis 1](powerbi/images/Screenshot%202025-11-25%20221402.png)
+![Branch Analysis 2](powerbi/images/Screenshot%202025-11-25%20221543.png)
 
 **Analytical Features:**
 - **Comparative Analysis:** Branch-to-branch performance comparison
@@ -184,8 +184,8 @@ DIVIDE([Product Sales], CALCULATE([Total Sales], ALL(Dim_Product)))
 #### 3.3 Product Portfolio Intelligence
 **Purpose:** Category and SKU-level optimization
 
-![Product Analysis 1](Screenshot%202025-11-25%20221226.png)
-![Product Analysis 2](Screenshot%202025-11-25%20221245.png)
+![Product Analysis 1](powerbi/images/Screenshot%202025-11-25%20221226.png)
+![Product Analysis 2](powerbi/images/Screenshot%202025-11-25%20221245.png)
 
 **Advanced Analytics:**
 - **Price-Volume Analysis:** Scatter plot for pricing strategy
